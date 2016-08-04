@@ -1,0 +1,60 @@
+_repo: Le-chate-u-des-Carpathes_5082
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Jules Gabriel
+    - Verne, Júlio
+    - Verne, Jules Gabriël
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+description: "The Carpathian Castle (French: Le Château des Carpathes) is a novel\
+  \ by Jules Verne first published in 1893. It is possible that Bram Stoker took inspiration\
+  \ from this for his 1897 novel Dracula. Possibly Verne has been inspired by seeing\
+  \ the ruined Devín Castle near Bratislava during his boat travel on Danube river.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5082'
+  wikidata: Q768605
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Transylvania (Romania) -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Carpathian Mountains -- Fiction'
+- GITenberg
+title: Le chateâu des Carpathes
+url: http://www.gutenberg.org/ebooks/5082
+wikipedia:
+- https://fr.wikipedia.org/wiki/Le_Ch%C3%A2teau_des_Carpathes
+- https://ar.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D8%A9_%D9%83%D8%A7%D8%B1%D8%A8%D8%A7%D8%AA
+- https://zh.wikipedia.org/wiki/%E5%96%80%E5%B0%94%E5%B7%B4%E9%98%A1%E5%8F%A4%E5%A0%A1
+- https://ro.wikipedia.org/wiki/Castelul_din_Carpa%C8%9Bi
+- https://pl.wikipedia.org/wiki/Zamek_w_Karpatach
+- https://cs.wikipedia.org/wiki/Tajemn%C3%BD_hrad_v_Karpatech
+- https://de.wikipedia.org/wiki/Das_Karpatenschloss
+- https://es.wikipedia.org/wiki/El_castillo_de_los_C%C3%A1rpatos
+- https://sk.wikipedia.org/wiki/Tajomn%C3%BD_hrad_v_Karpatoch
+- https://hy.wikipedia.org/wiki/%D4%B1%D5%B4%D6%80%D5%B8%D6%81%D5%A8_%D4%BF%D5%A1%D6%80%D5%BA%D5%A1%D5%BF%D5%B6%D5%A5%D6%80%D5%B8%D6%82%D5%B4
+- https://en.wikipedia.org/wiki/The_Carpathian_Castle
+- https://commons.wikimedia.org/wiki/Category:Carpathian_Castle
+- https://uk.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D1%83_%D0%9A%D0%B0%D1%80%D0%BF%D0%B0%D1%82%D0%B0%D1%85
+- https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D0%B2_%D0%9A%D0%B0%D1%80%D0%BF%D0%B0%D1%82%D0%B0%D1%85
+- https://el.wikipedia.org/wiki/%CE%9F_%CF%80%CF%8D%CF%81%CE%B3%CE%BF%CF%82_%CF%84%CF%89%CE%BD_%CE%9A%CE%B1%CF%81%CF%80%CE%B1%CE%B8%CE%AF%CF%89%CE%BD
+- https://ca.wikipedia.org/wiki/El_castell_dels_C%C3%A0rpats
+- https://gl.wikipedia.org/wiki/O_castelo_dos_C%C3%A1rpatos
+- https://sv.wikipedia.org/wiki/Slottet_i_Karpaterna
+- https://it.wikipedia.org/wiki/Il_castello_dei_Carpazi
