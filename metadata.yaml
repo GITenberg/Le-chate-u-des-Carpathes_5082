@@ -1,5 +1,8 @@
 _repo: Le-chate-u-des-Carpathes_5082
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Verne, Jules
@@ -20,6 +23,8 @@ description: "The Carpathian Castle (French: Le Château des Carpathes) is a nov
   \ from this for his 1897 novel Dracula. Possibly Verne has been inspired by seeing\
   \ the ruined Devín Castle near Bratislava during his boat travel on Danube river.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5082#Le-chate-u-des-Carpathes
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
